@@ -17,30 +17,7 @@ This repository is my Digital Literacy Portfolio, created as part of the CSE0001
 
 ---
 
- Repository Structure
-
-```
-digital-literacy-project/
-├── README.md
-├── report/
-│   └── Project_Report.docx
-├── task-1-presentation/
-│   ├── infographic-description.md
-│   └── [infographic exported from Canva]
-├── task-2-portfolio/
-│   ├── portfolio-reflection.md
-│   └── [screenshots of GitHub, LinkedIn, Kaggle profiles]
-├── task-3-platforms/
-│   ├── platforms-reflection.md
-│   └── [screenshots of HackerRank challenge + Google Form]
-├── task-4-email-etiquette/
-│   ├── email-drafts.md
-│   └── social-media-checklist.md
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
-```
-
+ 
 ---
 
  Module Summaries
