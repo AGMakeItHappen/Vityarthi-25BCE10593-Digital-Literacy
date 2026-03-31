@@ -2,13 +2,12 @@
 
 **Prepared by:** Aryan Goswami | 25BCE10593 | CSE0001 – Digital Literacy
 
----
+
 
 ## What is UPI/Online Payment Fraud?
 
 UPI (Unified Payments Interface) fraud is a form of financial cybercrime where attackers trick individuals into transferring money or sharing sensitive payment credentials — such as UPI PINs, OTPs, or bank details — through deception, social engineering, or fake applications.
 
----
 
 ## Realistic Scenario: The "Wrong Transfer" Scam
 
@@ -28,6 +27,6 @@ UPI (Unified Payments Interface) fraud is a form of financial cybercrime where a
 
 **Consequences:** Financial loss (often non-recoverable), emotional distress, and in some cases, identity theft if bank details were also shared.
 
----
+
 
 *Source inspiration: National Cyber Crime Portal (cybercrime.gov.in) reported cases; scenario is fictional for educational purposes.*
